@@ -1,6 +1,7 @@
 # DesignIdeas
-
-Packet Markup:
+## Goals:
+To provde a redundent mesh network via hf radio. This network is self healing and is designed to send critical messages. 
+## Packet Markup:
 
 |  Header  |   To    |  From  | Message  | NodePath |
 |----------|---------|--------|----------|----------|
