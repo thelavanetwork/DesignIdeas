@@ -1,6 +1,6 @@
 # DesignIdeas
 ## Goals:
-To provde a redundent mesh network via hf radio. This network is self healing and is designed to send critical messages. 
+To provde a redundent mesh network via hf radio. This network is self healing and is designed to send and receive critical messages. 
 ## Packet Markup:
 
 |  Header  |   To    |  From  | Message  | NodePath |
